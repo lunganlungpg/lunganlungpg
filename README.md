@@ -1,7 +1,10 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=12&color=4FA4FF&center=true&vCenter=true&lines=Hi+I'm+Lungh!;Agricultural+Statistics+Researcher;PhD+Scholar+%40+ICAR-IARI+(IASRI);Machine+Learning+%7C+Forecasting+%7C+Modelling" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&width=600&color=69F0AE&center=true&vCenter=true&lines=Hi+I'm+Lungh!;Agricultural+Statistics+Researcher;PhD+Scholar+%40+ICAR-IARI+(IASRI);Machine+Learning+%7C+Forecasting+%7C+Modelling" />
 </p>
+
+
+
 
 ---
 
