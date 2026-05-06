@@ -8,7 +8,7 @@
 
 ## 🧑‍🎓 **About Me**
 I am a **PhD Research Scholar in Agricultural Statistics** at  
-📍 **ICAR–Indian Agricultural Research Institute (IASRI), New Delhi**  
+📍 **ICAR–Indian Agricultural Research Institute, IASRI, New Delhi**  
 
 Passionate about **statistical modelling**, **forecasting**, and **machine learning** for solving real-world agricultural problems.
 
