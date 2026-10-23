@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lungh
+# Lunganlung
 
 ### Agricultural Statistics · Statistical Modelling · Machine Learning
 
