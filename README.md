@@ -1,75 +1,104 @@
 <div align="center">
 
-# Lunganlung
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:15803D,100:84CC16&height=110&section=header" alt="" />
 
-### Agricultural Statistics · Statistical Modelling · Machine Learning
+# Hi, I'm Lunganlung
 
-Ph.D. Research Scholar in Agricultural Statistics  
-**ICAR–Indian Agricultural Research Institute (IASRI), New Delhi**
+**Agricultural Statistics Researcher · Ph.D. Scholar · Curious Learner**
 
-[Email](mailto:lunganlungpg@gmail.com) · Research · Collaboration
+*Exploring the connections between agriculture, data, and the world around us.*
+
+<br>
+
+<img width="100%" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1400&h=350&q=85" alt="Green agricultural landscape beneath an open sky" />
+
+<br><br>
+
+**Growing knowledge. Exploring data. Understanding agriculture.**
 
 </div>
 
----
+<br>
 
-## About
+## A little about me
 
-I am a Ph.D. Research Scholar in **Agricultural Statistics** at ICAR–IARI (IASRI), New Delhi. My research interests lie at the intersection of statistical modelling, time series forecasting, and machine learning, with a focus on agricultural applications.
+I'm **Lunganlung**, a Ph.D. Research Scholar in **Agricultural Statistics** at **ICAR–Indian Agricultural Research Institute (IASRI), New Delhi**.
 
-I am interested in how models capture complex patterns in agricultural data, how their predictive performance can be improved, and how their results can support practical decisions. My current work explores forecasting frameworks, hybrid statistical and machine learning approaches, and crop yield modelling using climatic variables.
+Agriculture gives me the questions; statistics and programming give me ways to explore them. I enjoy working with data to understand patterns, investigate relationships, and develop models for agricultural problems.
 
-## Research Focus
+My interests span **forecasting, statistical modelling, and machine learning**. I am particularly drawn to the ways these approaches can work together to study crop yields and climatic influences.
 
-**Forecasting and Time Series Analysis**  
-Studying temporal patterns in agricultural data and developing models to forecast future outcomes.
+Beyond individual models, I am motivated by the process of research: asking thoughtful questions, experimenting with ideas, and learning from unexpected results.
 
-**Statistical Modelling**  
-Exploring nonlinear models, linear regression, and generalized regression methods to understand relationships among agricultural variables.
+## What I'm working on
 
-**Machine Learning and Hybrid Models**  
-Investigating predictive methods that combine statistical approaches with machine learning techniques.
+🌱 **Agricultural forecasting**  
+Developing forecasting frameworks and exploring patterns in agricultural time series.
 
-**Agro-climatic and Yield Modelling**  
-Examining the relationships between climatic conditions and crop yields to support agricultural prediction and analysis.
+**Statistical and machine learning models**  
+Investigating hybrid approaches that bring statistical methods and machine learning together.
 
-## Current Work
+**Climate and crop yields**  
+Exploring how climatic variables can help explain and predict agricultural outcomes.
 
-- Developing forecasting frameworks for agricultural data.
-- Designing hybrid statistical and machine learning models.
-- Investigating crop yield prediction using climatic variables.
-- Exploring modelling techniques for research in Agricultural Statistics.
+**Learning and experimentation**  
+Studying modelling techniques and strengthening my research and programming skills.
 
-## Education
+## Research interests
 
-| Qualification | Institution |
-| :--- | :--- |
-| **Ph.D. in Agricultural Statistics** · Ongoing | ICAR–IARI (IASRI), New Delhi |
-| **M.Sc. in Agricultural Statistics** | Dr. Rajendra Prasad Agricultural University, Bihar |
-| **B.Sc. in Agriculture (Hons.)** | Central Agricultural University, Imphal |
-| **B.Sc. in Zoology** | Manipur University |
+![Forecasting](https://img.shields.io/badge/Forecasting-166534?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time_Series-0F766E?style=flat-square)
+![Nonlinear Models](https://img.shields.io/badge/Nonlinear_Models-2563EB?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-7C3AED?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-C2410C?style=flat-square)
+![Yield Modelling](https://img.shields.io/badge/Yield_Modelling-4D7C0F?style=flat-square)
 
-## Technical Toolkit
+My research interests include nonlinear models, linear and generalized regression models, agro-climatic analysis, and agricultural data science. I am interested in both the development of methods and their application to real agricultural datasets.
 
-| Area | Tools |
-| :--- | :--- |
-| Programming and statistical computing | Python, R |
-| Machine learning | scikit-learn, TensorFlow |
-| Data management | MySQL |
-| Version control | Git, GitHub |
-| Research writing | LaTeX |
-| Development environment | VS Code, Linux |
+## My academic journey
 
-## Collaboration
+**Ph.D. in Agricultural Statistics** · *Ongoing*  
+ICAR–Indian Agricultural Research Institute (IASRI), New Delhi
 
-I welcome opportunities to collaborate on agricultural forecasting, machine learning applications in agriculture, statistical model development, and academic publications.
+**M.Sc. in Agricultural Statistics**  
+Dr. Rajendra Prasad Agricultural University, Bihar
 
-If your work involves an interesting agricultural dataset, a modelling challenge, or a shared research question, I would be happy to connect.
+**B.Sc. in Agriculture (Hons.)**  
+Central Agricultural University, Imphal
 
-**Contact:** [lunganlungpg@gmail.com](mailto:lunganlungpg@gmail.com)
+**B.Sc. in Zoology**  
+Manipur University
+
+## Tools I work with
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,mysql&perline=5" alt="Python, R, TensorFlow, scikit-learn, and MySQL" />
+</p>
+
+I use **Python and R** for statistical computing and data analysis, alongside **scikit-learn and TensorFlow** for machine learning.
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex,linux&perline=5" alt="Git, GitHub, VS Code, LaTeX, and Linux" />
+</p>
+
+My broader toolkit includes **Git and GitHub** for version control, **MySQL** for data management, and **LaTeX** for research writing.
+
+## Let's connect
+
+I welcome conversations about agricultural data, forecasting, statistical methods, and research. I am also open to collaborations on model development, machine learning applications in agriculture, and academic publications.
+
+**Have a dataset, a research question, or an idea to explore?**
+
+[![Email](https://img.shields.io/badge/Write_to_me-166534?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunganlungpg@gmail.com)
+
+[lunganlungpg@gmail.com](mailto:lunganlungpg@gmail.com)
 
 ---
 
 <div align="center">
-<sub>Understanding agricultural systems through data, statistical thinking, and code.</sub>
+
+*Learning from data. Staying rooted in agriculture.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:15803D,100:84CC16&height=90&section=footer" alt="" />
+
 </div>
