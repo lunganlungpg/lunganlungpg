@@ -55,6 +55,7 @@ My work sits at the intersection of agriculture, statistical computation, and da
 | Repository | Focus & Description | Tech Stack |
 | :--- | :--- | :---: |
 | 🌾 **[agribiostat](https://github.com/lunganlungpg/agribiostat)** | **Comprehensive Biostatistical Suite** for Agricultural & Genetic Research. Implements CRD, RCBD, AMMI, GWAS, Phylogenetics, and automated thesis report assembly. | `R` `Biostatistics` |
+| 🌱 **[agri-svm-classification](https://github.com/lunganlungpg/agri-svm-classification)** | **Support Vector Machines for Agricultural Classification** (Crop Stress & Disease Phenomics, Decision Margins, and Kernel Optimization). | `Python` `R` `SVM` |
 | 🌲 **[agri-rf-forecasting](https://github.com/lunganlungpg/agri-rf-forecasting)** | **Random Forest Agricultural Forecasting** with time-lag modeling, interactive Plotly dashboards, publication figures, and tutorial notebooks. | `Python` `R` `Plotly` |
 | 📐 **[Max-min-Design](https://github.com/lunganlungpg/Max-min-Design)** | Algorithms and interactive tooling for **optimal Max-Min experimental design generation** in agricultural trials. | `Python` `R` `HTML` |
 | 🧪 **[stage-aware-dsd-followup](https://github.com/lunganlungpg/stage-aware-dsd-followup)** | Interactive code & preprint companion for **stage-aware follow-up designs** in definitive screening experiments. | `Python` `Research` |
