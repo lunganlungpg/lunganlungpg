@@ -1,104 +1,146 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:15803D,100:84CC16&height=110&section=header" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:047857,100:10b981&height=180&section=header&text=Lunganlung%20P%20G&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Agricultural%20Statistics%20%7C%20Biometrics%20%7C%20Machine%20Learning&descSize=18&descAlignY=58" alt="Lunganlung Header Banner" />
 
-# Hi, I'm Lunganlung
-
-**Agricultural Statistics Researcher · Ph.D. Scholar · Curious Learner**
-
-*Exploring the connections between agriculture, data, and the world around us.*
-
-<br>
-
-<img width="100%" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1400&h=350&q=85" alt="Green agricultural landscape beneath an open sky" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Ph.D.+Research+Scholar+%40+ICAR-IASRI%2C+New+Delhi;Specializing+in+Agricultural+Statistics+%26+Biometrics;Time+Series+Forecasting+%26+Nonlinear+Yield+Modeling;Machine+Learning+for+Agro-Climatic+Systems;Author+of+agribiostat+%26+Max-min-Design" alt="Typing Animation" />
+</a>
 
 <br><br>
 
-**Growing knowledge. Exploring data. Understanding agriculture.**
+[![Profile Views](https://komarev.com/ghpvc/?username=lunganlungpg&label=Profile%20Views&color=10b981&style=flat-square)](https://github.com/lunganlungpg)
+[![Ph.D. Scholar](https://img.shields.io/badge/Degree-Ph.D.%20Research%20Scholar-065f46?style=flat-square)](https://github.com/lunganlungpg)
+[![Affiliation](https://img.shields.io/badge/Affiliation-ICAR--IASRI%2C%20New%20Delhi-047857?style=flat-square)](https://iasri.icar.gov.in/)
+[![Email](https://img.shields.io/badge/Contact-lunganlungpg%40gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white)](mailto:lunganlungpg@gmail.com)
+
+<br><br>
+
+> *"Bridging agricultural sciences and statistical intelligence — modeling time series, designing optimal experimental frameworks, and extracting actionable patterns from agro-climatic systems."*
+
+</div>
+
+---
+
+### 🌿 About Me
+
+I am a **Ph.D. Research Scholar in Agricultural Statistics** at **ICAR–Indian Agricultural Statistics Research Institute (IASRI), New Delhi**.
+
+My work sits at the intersection of agriculture, statistical computation, and data science. I develop mathematical frameworks, predictive algorithms, and statistical models to address real-world agricultural challenges.
+
+- 🏛️ **Doctoral Research**: Agricultural Statistics at **ICAR–IASRI**, New Delhi.
+- 🌾 **Core Domains**: Time series forecasting, crop yield modeling, agro-climatic analysis, and biometrical genetics.
+- 📐 **Methodology**: Nonlinear regression, generalized additive models, optimal experimental designs (Max-Min, Definitive Screening Designs).
+- 🤖 **Machine Learning**: Hybrid statistical-ML forecasting, kernel methods (RBF), and deep learning for biological & climatic datasets.
+- 📦 **Open Science**: Authoring tools for agricultural researchers, including biostatistical suites and experimental design generators.
+
+---
+
+### 🔬 Research Specializations
+
+<div align="center">
+
+![Biometrics & GWAS](https://img.shields.io/badge/Biometrical_Genetics-064E3B?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time_Series_Forecasting-047857?style=flat-square)
+![Experimental Design](https://img.shields.io/badge/Optimal_Experimental_Designs-10B981?style=flat-square)
+![Nonlinear Models](https://img.shields.io/badge/Nonlinear_Regression-0F766E?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-1E3A8A?style=flat-square)
+![Agro-Climatic Analysis](https://img.shields.io/badge/Agro--Climatic_Modeling-15803D?style=flat-square)
+
+</div>
+
+---
+
+### 🚀 Featured Research & Repositories
+
+| Repository | Focus & Description | Tech Stack |
+| :--- | :--- | :---: |
+| 🌾 **[agribiostat](https://github.com/lunganlungpg/agribiostat)** | **Comprehensive Biostatistical Suite** for Agricultural & Genetic Research. Implements CRD, RCBD, AMMI, GWAS, Phylogenetics, and automated thesis report assembly. | `R` `Biostatistics` |
+| 📐 **[Max-min-Design](https://github.com/lunganlungpg/Max-min-Design)** | Algorithms and interactive tooling for **optimal Max-Min experimental design generation** in agricultural trials. | `Python` `R` `HTML` |
+| 🧪 **[stage-aware-dsd-followup](https://github.com/lunganlungpg/stage-aware-dsd-followup)** | Interactive code & preprint companion for **stage-aware follow-up designs** in definitive screening experiments. | `Python` `Research` |
+| 📈 **[aiml_sp-tm](https://github.com/lunganlungpg/aiml_sp-tm)** | Spatial-temporal agricultural forecasting and machine learning modeling frameworks. | `Python` `ML` |
+
+---
+
+### 🛠️ Languages & Technical Toolkit
+
+<div align="center">
+
+#### **Languages & Statistical Computing**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=r,python&perline=10" alt="Languages" />
+</a>
+
+#### **Machine Learning, Data & Analysis**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,mysql&perline=10" alt="ML and Data" />
+</a>
+
+#### **Workflow, Version Control & Research Publishing**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,latex,linux&perline=10" alt="Tools and Platforms" />
+</a>
+
+</div>
+
+---
+
+### 🎓 Academic Journey
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  Ph.D. in Agricultural Statistics (Ongoing)                                            │
+│  ICAR–Indian Agricultural Statistics Research Institute (IASRI), New Delhi             │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  M.Sc. in Agricultural Statistics                                                      │
+│  Dr. Rajendra Prasad Central Agricultural University, Bihar                            │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  B.Sc. in Agriculture (Honours)                                                        │
+│  Central Agricultural University, Imphal                                               │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  B.Sc. in Zoology                                                                      │
+│  Manipur University                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lunganlungpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10b981&icon_color=34d399&text_color=94a3b8" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunganlungpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10b981&text_color=94a3b8" alt="Top Languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=lunganlungpg&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🤝 Connect & Collaborate
+
+I am always keen to discuss agricultural data, forecasting challenges, statistical methodologies, and collaborative research initiatives.
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunganlungpg@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lunganlungpg)
+[![ICAR-IASRI](https://img.shields.io/badge/ICAR--IASRI-047857?style=for-the-badge&logo=google-scholar&logoColor=white)](https://iasri.icar.gov.in/)
+
+<br>
+
+**Direct inquiries**: [lunganlungpg@gmail.com](mailto:lunganlungpg@gmail.com)
 
 </div>
 
 <br>
 
-## A little about me
-
-I'm **Lunganlung**, a Ph.D. Research Scholar in **Agricultural Statistics** at **ICAR–Indian Agricultural Research Institute (IASRI), New Delhi**.
-
-Agriculture gives me the questions; statistics and programming give me ways to explore them. I enjoy working with data to understand patterns, investigate relationships, and develop models for agricultural problems.
-
-My interests span **forecasting, statistical modelling, and machine learning**. I am particularly drawn to the ways these approaches can work together to study crop yields and climatic influences.
-
-Beyond individual models, I am motivated by the process of research: asking thoughtful questions, experimenting with ideas, and learning from unexpected results.
-
-## What I'm working on
-
-🌱 **Agricultural forecasting**  
-Developing forecasting frameworks and exploring patterns in agricultural time series.
-
-**Statistical and machine learning models**  
-Investigating hybrid approaches that bring statistical methods and machine learning together.
-
-**Climate and crop yields**  
-Exploring how climatic variables can help explain and predict agricultural outcomes.
-
-**Learning and experimentation**  
-Studying modelling techniques and strengthening my research and programming skills.
-
-## Research interests
-
-![Forecasting](https://img.shields.io/badge/Forecasting-166534?style=flat-square)
-![Time Series](https://img.shields.io/badge/Time_Series-0F766E?style=flat-square)
-![Nonlinear Models](https://img.shields.io/badge/Nonlinear_Models-2563EB?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression-7C3AED?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-C2410C?style=flat-square)
-![Yield Modelling](https://img.shields.io/badge/Yield_Modelling-4D7C0F?style=flat-square)
-
-My research interests include nonlinear models, linear and generalized regression models, agro-climatic analysis, and agricultural data science. I am interested in both the development of methods and their application to real agricultural datasets.
-
-## My academic journey
-
-**Ph.D. in Agricultural Statistics** · *Ongoing*  
-ICAR–Indian Agricultural Research Institute (IASRI), New Delhi
-
-**M.Sc. in Agricultural Statistics**  
-Dr. Rajendra Prasad Agricultural University, Bihar
-
-**B.Sc. in Agriculture (Hons.)**  
-Central Agricultural University, Imphal
-
-**B.Sc. in Zoology**  
-Manipur University
-
-## Tools I work with
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,mysql&perline=5" alt="Python, R, TensorFlow, scikit-learn, and MySQL" />
-</p>
-
-I use **Python and R** for statistical computing and data analysis, alongside **scikit-learn and TensorFlow** for machine learning.
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,latex,linux&perline=5" alt="Git, GitHub, VS Code, LaTeX, and Linux" />
-</p>
-
-My broader toolkit includes **Git and GitHub** for version control, **MySQL** for data management, and **LaTeX** for research writing.
-
-## Let's connect
-
-I welcome conversations about agricultural data, forecasting, statistical methods, and research. I am also open to collaborations on model development, machine learning applications in agriculture, and academic publications.
-
-**Have a dataset, a research question, or an idea to explore?**
-
-[![Email](https://img.shields.io/badge/Write_to_me-166534?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunganlungpg@gmail.com)
-
-[lunganlungpg@gmail.com](mailto:lunganlungpg@gmail.com)
-
----
-
 <div align="center">
 
-*Learning from data. Staying rooted in agriculture.*
+*Growing knowledge. Exploring data. Understanding agriculture.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:15803D,100:84CC16&height=90&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:047857,100:10b981&height=100&section=footer" alt="Footer Banner" />
 
 </div>
