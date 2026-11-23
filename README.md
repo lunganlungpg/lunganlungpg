@@ -59,7 +59,7 @@ My work sits at the intersection of agriculture, statistical computation, and da
 | 🌲 **[agri-rf-forecasting](https://github.com/lunganlungpg/agri-rf-forecasting)** | **Random Forest Agricultural Forecasting** with time-lag modeling, interactive Plotly dashboards, publication figures, and tutorial notebooks. | `Python` `R` `Plotly` |
 | 📐 **[Max-min-Design](https://github.com/lunganlungpg/Max-min-Design)** | Algorithms and interactive tooling for **optimal Max-Min experimental design generation** in agricultural trials. | `Python` `R` `HTML` |
 | 🧪 **[stage-aware-dsd-followup](https://github.com/lunganlungpg/stage-aware-dsd-followup)** | Interactive code & preprint companion for **stage-aware follow-up designs** in definitive screening experiments. | `Python` `Research` |
-| 📈 **[aiml_sp-tm](https://github.com/lunganlungpg/aiml_sp-tm)** | Spatial-temporal agricultural forecasting and machine learning modeling frameworks. | `Python` `ML` |
+| 🛰️ **[aiml_sp-tm](https://github.com/lunganlungpg/aiml_sp-tm)** | **Spatio-Temporal Agricultural Experimental Design** (`aimlsptm` R package): Resolvable incomplete-block layouts, observation schedules, and interactive field maps. | `R` `Design` `Plots` |
 
 ---
 
