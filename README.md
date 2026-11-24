@@ -60,6 +60,7 @@ My work sits at the intersection of agriculture, statistical computation, and da
 | 📐 **[Max-min-Design](https://github.com/lunganlungpg/Max-min-Design)** | Algorithms and interactive tooling for **optimal Max-Min experimental design generation** in agricultural trials. | `Python` `R` `HTML` |
 | 🧪 **[stage-aware-dsd-followup](https://github.com/lunganlungpg/stage-aware-dsd-followup)** | Interactive code & preprint companion for **stage-aware follow-up designs** in definitive screening experiments. | `Python` `Research` |
 | 🛰️ **[aiml_sp-tm](https://github.com/lunganlungpg/aiml_sp-tm)** | **Spatio-Temporal Agricultural Experimental Design** (`aimlsptm` R package): Resolvable incomplete-block layouts, observation schedules, and interactive field maps. | `R` `Design` `Plots` |
+| ⚡ **[ble-demystified](https://github.com/lunganlungpg/ble-demystified)** | **Interactive Bluetooth Low Energy Explainer & Playground**: Zero-hardware browser client, 7-tab educational guide, RF telemetry engine, and ESP32 sketch. | `JavaScript` `Node.js` `IoT` |
 
 ---
 
@@ -69,7 +70,7 @@ My work sits at the intersection of agriculture, statistical computation, and da
 
 #### **Languages & Statistical Computing**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=r,python&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=r,python,js,nodejs&perline=10" alt="Languages" />
 </a>
 
 #### **Machine Learning, Data & Analysis**
@@ -110,10 +111,14 @@ My work sits at the intersection of agriculture, statistical computation, and da
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lunganlungpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10b981&icon_color=34d399&text_color=94a3b8" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunganlungpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10b981&text_color=94a3b8" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=lunganlungpg&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10b981&icon_color=34d399&text_color=94a3b8" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunganlungpg&layout=compact&hide=html,css&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10b981&text_color=94a3b8" alt="Top Languages" />
 
-<br>
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lunganlungpg&theme=tokyo-night&bg_color=0D1117&color=10b981&line=34d399&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=lunganlungpg&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
 
