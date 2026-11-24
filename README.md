@@ -65,8 +65,26 @@ Right now I'm focused on **optimal experimental designs** (Max-Min and definitiv
 | **[aiml_sp-tm](https://github.com/lunganlungpg/aiml_sp-tm)** | `aimlsptm`: spatio-temporal experimental design, incomplete blocks and field maps | `R` |
 | **[stage-aware-dsd-followup](https://github.com/lunganlungpg/stage-aware-dsd-followup)** | Companion code for stage-aware follow-up definitive screening designs | `Python` |
 | **[ble-demystified](https://github.com/lunganlungpg/ble-demystified)** | Interactive Bluetooth Low Energy explainer & playground with an ESP32 sketch | `JS` `Node` |
+| **[rabi-crop-doctor](https://github.com/lunganlungpg/rabi-crop-doctor)** | Offline ML + ANN leaf-disease diagnosis for Rabi crops (Android APK, PWA, Python & R) | `Python` `JS` `R` |
 
 </details>
+
+<img src="assets/divider.svg" width="100%" height="8" alt="" />
+
+### 📦 &nbsp;Packages
+
+Everything below installs straight from GitHub; container images live in my [**Packages**](https://github.com/lunganlungpg?tab=packages) tab.
+
+| Project | 🐍 Python | 📊 R | 🐳 Docker (GitHub Packages) |
+| :-- | :-- | :-- | :-- |
+| **[Max-min-Design](https://github.com/lunganlungpg/Max-min-Design)** | `pip install git+https://github.com/lunganlungpg/Max-min-Design.git` | `remotes::install_github("lunganlungpg/Max-min-Design", subdir = "R-package")` | `docker run --rm ghcr.io/lunganlungpg/max-min-design` |
+| **[agri-rf-forecasting](https://github.com/lunganlungpg/agri-rf-forecasting)** | `pip install git+https://github.com/lunganlungpg/agri-rf-forecasting.git` | `remotes::install_github("lunganlungpg/agri-rf-forecasting")` | `docker run --rm ghcr.io/lunganlungpg/agri-rf-forecasting` |
+| **[agri-svm-classification](https://github.com/lunganlungpg/agri-svm-classification)** | `pip install git+https://github.com/lunganlungpg/agri-svm-classification.git` | `remotes::install_github("lunganlungpg/agri-svm-classification")` | `docker run --rm ghcr.io/lunganlungpg/agri-svm-classification` |
+| **[aiml_sp-tm](https://github.com/lunganlungpg/aiml_sp-tm)** | — | `remotes::install_github("lunganlungpg/aiml_sp-tm")` | `docker run --rm ghcr.io/lunganlungpg/aiml_sp-tm` |
+| **[rabi-crop-doctor](https://github.com/lunganlungpg/rabi-crop-doctor)** | `pip install git+https://github.com/lunganlungpg/rabi-crop-doctor.git` | `remotes::install_github("lunganlungpg/rabi-crop-doctor", subdir = "R-package")` | `docker run --rm ghcr.io/lunganlungpg/rabi-crop-doctor` |
+| **[ble-demystified](https://github.com/lunganlungpg/ble-demystified)** | — | — | `docker run --rm -p 3333:3333 ghcr.io/lunganlungpg/ble-demystified` |
+
+<sub>Import names: Python `maxmin_designs`, `agrirf`, `agrisvm`, `rabi_crop_doctor` · R `maxmindesign`, `agrirf`, `agrisvm`, `aimlsptm`, `rabidoctor`. Each repo's README has the full API.</sub>
 
 <img src="assets/divider.svg" width="100%" height="8" alt="" />
 
