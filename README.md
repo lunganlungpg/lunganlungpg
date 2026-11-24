@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Lunganlung P. G. — Agricultural Statistics · Biometrics · Machine Learning" />
+  <img src="assets/banner.svg" width="100%" alt="Lunganlung P. G. — Agricultural Statistics · DoE · Machine Learning" />
 </div>
 
 <table>
