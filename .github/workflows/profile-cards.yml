@@ -1,0 +1,93 @@
+# Builds the profile's stats cards, pinned-repo cards and contribution snake
+# in the banner's colours, and commits them to this repo so the README never
+# depends on a rate-limited public card server.
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-cards.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+env:
+  # Banner palette: night #06070d→#141a2e · red ff3b5c · orange ff8a1f
+  # yellow ffd84d · cyan 5ce1e6 · blue 3a6bff · violet 9b5cff · mist aab3c5
+  THEME: "bg_color=35,06070d,141a2e&title_color=ffd84d&text_color=aab3c5&icon_color=ff8a1f&ring_color=ff3b5c&border_color=262c44"
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&rank_icon=percentile&card_width=470&${{ env.THEME }}"
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=html,css&card_width=330&${{ env.THEME }}"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin · agribiostat
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=agribiostat&description_lines_count=2&${{ env.THEME }}"
+          path: profile/pin-agribiostat.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin · Max-min-Design
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=Max-min-Design&description_lines_count=2&${{ env.THEME }}"
+          path: profile/pin-max-min-design.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin · agri-rf-forecasting
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=agri-rf-forecasting&description_lines_count=2&${{ env.THEME }}"
+          path: profile/pin-agri-rf-forecasting.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin · agri-svm-classification
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=agri-svm-classification&description_lines_count=2&${{ env.THEME }}"
+          path: profile/pin-agri-svm-classification.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg?color_snake=#ff8a1f&color_dots=#161b2e,#3a6bff,#9b5cff,#ff3b5c,#ffd84d
+
+      - name: Commit cards
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: refresh profile cards" || exit 0
+          git push
