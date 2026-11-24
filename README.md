@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- ═══════════ Hero · "Sage & Sand" palette: slate → sage → mist → sand ═══════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f3e46,35:52796f,70:84a98c,100:c9ad7f&height=230&section=header&text=Lunganlung%20P.%20G.&fontSize=50&fontColor=f8f7f2&fontAlignY=36&animation=fadeIn&desc=Agricultural%20Statistics%20%C2%B7%20Biometrics%20%C2%B7%20Machine%20Learning&descSize=18&descAlignY=57&descColor=e9e4d4" alt="Lunganlung P. G." />
+<!-- ═══════════ Hero · "Nordic Dusk" palette: navy → steel → mist, clay accent ═══════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1b263b,55:415a77,100:778da9&height=210&section=header&text=Lunganlung%20P.%20G.&fontSize=52&fontColor=f8f9fa&fontAlignY=40&animation=fadeIn&desc=Agricultural%20Statistics%20%C2%B7%20Biometrics%20%C2%B7%20Machine%20Learning&descSize=17&descAlignY=64&descColor=d4a59a" alt="Lunganlung P. G." />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=C9AD7F&center=true&vCenter=true&width=640&lines=Ph.D.+Research+Scholar+%40+ICAR-IASRI%2C+New+Delhi;Time+series+%26+nonlinear+yield+modelling;Optimal+experimental+designs;ML+for+agro-climatic+phenomics;Author+of+agribiostat+%26+Max-min-Design" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=D4A59A&center=true&vCenter=true&width=640&lines=Ph.D.+Research+Scholar+%40+ICAR-IASRI%2C+New+Delhi;Time+series+%26+nonlinear+yield+modelling;Optimal+experimental+designs;ML+for+agro-climatic+phenomics;Author+of+agribiostat+%26+Max-min-Design" alt="Typing intro" />
 </a>
 
 <br>
 
-<a href="https://github.com/lunganlungpg"><img src="https://komarev.com/ghpvc/?username=lunganlungpg&label=profile%20views&color=52796f&style=flat-square" alt="Profile views" /></a>
-<a href="https://iasri.icar.gov.in/"><img src="https://img.shields.io/badge/Ph.D._Scholar-ICAR--IASRI-84a98c?style=flat-square&labelColor=2f3e46" alt="Ph.D. Scholar at ICAR-IASRI" /></a>
-<a href="mailto:lunganlungpg@gmail.com"><img src="https://img.shields.io/badge/say_hello-email-c9ad7f?style=flat-square&logo=gmail&logoColor=white&labelColor=2f3e46" alt="Email" /></a>
+<a href="https://github.com/lunganlungpg"><img src="https://komarev.com/ghpvc/?username=lunganlungpg&label=profile%20views&color=415a77&style=flat-square" alt="Profile views" /></a>
+<a href="https://iasri.icar.gov.in/"><img src="https://img.shields.io/badge/Ph.D._Scholar-ICAR--IASRI-778da9?style=flat-square&labelColor=1b263b" alt="Ph.D. Scholar at ICAR-IASRI" /></a>
+<a href="mailto:lunganlungpg@gmail.com"><img src="https://img.shields.io/badge/say_hello-email-d4a59a?style=flat-square&logo=gmail&logoColor=white&labelColor=1b263b" alt="Email" /></a>
 
 <br><br>
 
@@ -22,7 +22,7 @@ designing optimal experiments, and finding the signal in agro-climatic systems.<
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:52796f,100:84a98c&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:415a77,100:778da9&height=2&section=header" width="100%" />
 
 ## 🌾 &nbsp;About
 
@@ -57,23 +57,23 @@ ask_me:    forecasting, DoE, biometrics
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:84a98c,100:c9ad7f&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:778da9,100:d4a59a&height=2&section=header" width="100%" />
 
 ## 🔬 &nbsp;Research Focus
 
 <div align="center">
 
-![Biometrical Genetics](https://img.shields.io/badge/Biometrical_Genetics-2f3e46?style=for-the-badge&logo=dna&logoColor=cad2c5)
-![Time Series](https://img.shields.io/badge/Time_Series_Forecasting-354f52?style=for-the-badge&logo=chartdotjs&logoColor=e9e4d4)
-![Experimental Design](https://img.shields.io/badge/Optimal_Experimental_Design-52796f?style=for-the-badge&logo=wolframmathematica&logoColor=white)
+![Biometrical Genetics](https://img.shields.io/badge/Biometrical_Genetics-1b263b?style=for-the-badge&logo=dna&logoColor=e0e1dd)
+![Time Series](https://img.shields.io/badge/Time_Series_Forecasting-2b3a55?style=for-the-badge&logo=chartdotjs&logoColor=e0e1dd)
+![Experimental Design](https://img.shields.io/badge/Optimal_Experimental_Design-415a77?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 <br>
-![Nonlinear Models](https://img.shields.io/badge/Nonlinear_Regression-6b8f71?style=for-the-badge&logo=r&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-84a98c?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Agro-Climatic](https://img.shields.io/badge/Agro--Climatic_Phenomics-b08d57?style=for-the-badge&logo=leaflet&logoColor=white)
+![Nonlinear Models](https://img.shields.io/badge/Nonlinear_Regression-5c6f8f?style=for-the-badge&logo=r&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-778da9?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Agro-Climatic](https://img.shields.io/badge/Agro--Climatic_Phenomics-b07d6e?style=for-the-badge&logo=leaflet&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9ad7f,100:52796f&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d4a59a,100:415a77&height=2&section=header" width="100%" />
 
 ## 🚀 &nbsp;Featured Work
 
@@ -137,7 +137,7 @@ Interactive Bluetooth Low Energy explainer & playground — zero-hardware browse
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:52796f,100:84a98c&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:415a77,100:778da9&height=2&section=header" width="100%" />
 
 ## 🛠️ &nbsp;Toolkit
 
@@ -145,7 +145,7 @@ Interactive Bluetooth Low Energy explainer & playground — zero-hardware browse
   <img src="https://skillicons.dev/icons?i=r,python,js,nodejs,bash,sklearn,tensorflow,postgres,mysql,git,github,vscode,latex,linux&perline=7&theme=dark" alt="Toolkit" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:84a98c,100:c9ad7f&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:778da9,100:d4a59a&height=2&section=header" width="100%" />
 
 ## 🎓 &nbsp;Academic Journey
 
@@ -156,22 +156,22 @@ Interactive Bluetooth Low Energy explainer & playground — zero-hardware browse
 | 🌾 | **B.Sc. (Hons.)**, Agriculture | Central Agricultural University, Imphal |
 | 🔬 | **B.Sc.**, Zoology | Manipur University |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9ad7f,100:52796f&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d4a59a,100:415a77&height=2&section=header" width="100%" />
 
 ## 📊 &nbsp;GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lunganlungpg&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=c9ad7f&icon_color=84a98c&text_color=cad2c5" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunganlungpg&layout=compact&hide=html,css&langs_count=6&hide_border=true&bg_color=00000000&title_color=c9ad7f&text_color=cad2c5" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lunganlungpg&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=d4a59a&icon_color=778da9&text_color=e0e1dd" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunganlungpg&layout=compact&hide=html,css&langs_count=6&hide_border=true&bg_color=00000000&title_color=d4a59a&text_color=e0e1dd" alt="Top languages" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=lunganlungpg&bg_color=00000000&color=cad2c5&line=84a98c&point=c9ad7f&area=true&area_color=52796f&title_color=c9ad7f&hide_border=true" alt="Contribution graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=lunganlungpg&bg_color=00000000&color=e0e1dd&line=778da9&point=d4a59a&area=true&area_color=415a77&title_color=d4a59a&hide_border=true" alt="Contribution graph" />
 
-<img src="https://streak-stats.demolab.com?user=lunganlungpg&hide_border=true&background=00000000&ring=84a98c&fire=c9ad7f&currStreakNum=c9ad7f&currStreakLabel=84a98c&sideNums=cad2c5&sideLabels=cad2c5&dates=8a9a93&stroke=52796f" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=lunganlungpg&hide_border=true&background=00000000&ring=778da9&fire=d4a59a&currStreakNum=d4a59a&currStreakLabel=778da9&sideNums=e0e1dd&sideLabels=e0e1dd&dates=8d99ae&stroke=415a77" alt="GitHub streak" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:52796f,100:84a98c&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:415a77,100:778da9&height=2&section=header" width="100%" />
 
 ## 🤝 &nbsp;Let's Connect
 
@@ -181,13 +181,13 @@ Always happy to talk agricultural data, forecasting problems, statistical method
 
 <br>
 
-<a href="mailto:lunganlungpg@gmail.com"><img src="https://img.shields.io/badge/Email-lunganlungpg%40gmail.com-84a98c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2f3e46" alt="Email" /></a>
-<a href="https://iasri.icar.gov.in/"><img src="https://img.shields.io/badge/ICAR--IASRI-New_Delhi-c9ad7f?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2f3e46" alt="ICAR-IASRI" /></a>
+<a href="mailto:lunganlungpg@gmail.com"><img src="https://img.shields.io/badge/Email-lunganlungpg%40gmail.com-778da9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1b263b" alt="Email" /></a>
+<a href="https://iasri.icar.gov.in/"><img src="https://img.shields.io/badge/ICAR--IASRI-New_Delhi-d4a59a?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1b263b" alt="ICAR-IASRI" /></a>
 
 <br><br>
 
 <sub><i>Growing knowledge · Exploring data · Understanding agriculture</i></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9ad7f,30:84a98c,65:52796f,100:2f3e46&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:778da9,45:415a77,100:1b263b&height=45&section=footer" alt="" />
 
 </div>
